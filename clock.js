@@ -12,6 +12,8 @@ window.onload = function(){
     clock.innerText = `${hours}:${minutes}:${seconds}`;
   }
 
+  function
+
   function init(){
     getTime();
     setInterval(getTime, 1000);
